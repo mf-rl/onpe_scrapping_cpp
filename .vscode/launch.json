@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/GIT/onpe_scrapping_cpp",
-      "program": "d:/GIT/onpe_scrapping_cpp/build/Debug/outDebug",
+      "cwd": "c:/Temp/onpe_scrapping_cpp",
+      "program": "c:/Temp/onpe_scrapping_cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

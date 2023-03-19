@@ -35,7 +35,12 @@ vector<string> selParScreen = {
     SELECT_OPTION_AND_ENTER
 };
 vector<string> tableNumberScreen = {
+    DOUBLE_LINE(),
     INPUT_TABLE_NUMBER
+};
+vector<string> ubigeoScreen = {
+    DOUBLE_LINE(),
+    INPUT_UBIGEO_CODE
 };
 vector<string> processFinishedScreen = {
     PROCESS_FINISHED,
